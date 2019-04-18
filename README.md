@@ -1,5 +1,5 @@
 # LinearProgramming - An AI assignment
-Learning linear programming through the use of the Apache Common Math Library. Commons Math is a collection of mathematics and statistics components that are not available by default in the Java programming language. Using linear programming to caculate the optimal result of each business model.
+Learning linear programming through the use of the Apache Common Math Library. Commons Math is a collection of mathematics and statistics components that are not available by default in the Java programming language. Using linear programming to calculate the optimal result of each business model.
 
 ## ShoesMaker
 You are small shoe maker. 
